@@ -1,0 +1,44 @@
+D:\MP_ Works\VB @VTA_DIP_2019\Electricity Company\Electricity Company\bin\Debug\Electricity Company.exe.config
+D:\MP_ Works\VB @VTA_DIP_2019\Electricity Company\Electricity Company\bin\Debug\ElectricityDB.mdf
+D:\MP_ Works\VB @VTA_DIP_2019\Electricity Company\Electricity Company\bin\Debug\ElectricityDB_log.ldf
+D:\MP_ Works\VB @VTA_DIP_2019\Electricity Company\Electricity Company\bin\Debug\Electricity Company.exe
+D:\MP_ Works\VB @VTA_DIP_2019\Electricity Company\Electricity Company\bin\Debug\Electricity Company.pdb
+D:\MP_ Works\VB @VTA_DIP_2019\Electricity Company\Electricity Company\bin\Debug\Electricity Company.xml
+D:\MP_ Works\VB @VTA_DIP_2019\Electricity Company\Electricity Company\obj\Debug\Electricity_Company.frmCustInfo.resources
+D:\MP_ Works\VB @VTA_DIP_2019\Electricity Company\Electricity Company\obj\Debug\Electricity_Company.Resources.resources
+D:\MP_ Works\VB @VTA_DIP_2019\Electricity Company\Electricity Company\obj\Debug\Electricity Company.vbproj.GenerateResource.Cache
+D:\MP_ Works\VB @VTA_DIP_2019\Electricity Company\Electricity Company\obj\Debug\Electricity Company.exe
+D:\MP_ Works\VB @VTA_DIP_2019\Electricity Company\Electricity Company\obj\Debug\Electricity Company.xml
+D:\MP_ Works\VB @VTA_DIP_2019\Electricity Company\Electricity Company\obj\Debug\Electricity Company.pdb
+D:\MP_ Works\My Dev Projects\Vb .net\New w001\Electricity Company\Electricity Company\bin\Debug\ElectricityDB.mdf
+D:\MP_ Works\My Dev Projects\Vb .net\New w001\Electricity Company\Electricity Company\bin\Debug\ElectricityDB_log.ldf
+D:\MP_ Works\My Dev Projects\Vb .net\New w001\Electricity Company\Electricity Company\bin\Debug\Electricity Company.exe.config
+D:\MP_ Works\My Dev Projects\Vb .net\New w001\Electricity Company\Electricity Company\bin\Debug\Electricity Company.exe
+D:\MP_ Works\My Dev Projects\Vb .net\New w001\Electricity Company\Electricity Company\bin\Debug\Electricity Company.pdb
+D:\MP_ Works\My Dev Projects\Vb .net\New w001\Electricity Company\Electricity Company\bin\Debug\Electricity Company.xml
+D:\MP_ Works\My Dev Projects\Vb .net\New w001\Electricity Company\Electricity Company\obj\Debug\Electricity Company.vbproj.AssemblyReference.cache
+D:\MP_ Works\My Dev Projects\Vb .net\New w001\Electricity Company\Electricity Company\obj\Debug\Electricity Company.vbproj.SuggestedBindingRedirects.cache
+D:\MP_ Works\My Dev Projects\Vb .net\New w001\Electricity Company\Electricity Company\obj\Debug\Electricity_Company.frmCustInfo.resources
+D:\MP_ Works\My Dev Projects\Vb .net\New w001\Electricity Company\Electricity Company\obj\Debug\Electricity_Company.Resources.resources
+D:\MP_ Works\My Dev Projects\Vb .net\New w001\Electricity Company\Electricity Company\obj\Debug\Electricity_Company.Payment.resources
+D:\MP_ Works\My Dev Projects\Vb .net\New w001\Electricity Company\Electricity Company\obj\Debug\Electricity Company.vbproj.GenerateResource.cache
+D:\MP_ Works\My Dev Projects\Vb .net\New w001\Electricity Company\Electricity Company\obj\Debug\Electricity Company.vbproj.CoreCompileInputs.cache
+D:\MP_ Works\My Dev Projects\Vb .net\New w001\Electricity Company\Electricity Company\obj\Debug\Electricity Company.exe
+D:\MP_ Works\My Dev Projects\Vb .net\New w001\Electricity Company\Electricity Company\obj\Debug\Electricity Company.xml
+D:\MP_ Works\My Dev Projects\Vb .net\New w001\Electricity Company\Electricity Company\obj\Debug\Electricity Company.pdb
+D:\MP_ Works\My Dev Projects\Vb .net\electricity-company - Copy\Electricity Company\bin\Debug\ElectricityDB.mdf
+D:\MP_ Works\My Dev Projects\Vb .net\electricity-company - Copy\Electricity Company\bin\Debug\ElectricityDB_log.ldf
+D:\MP_ Works\My Dev Projects\Vb .net\electricity-company - Copy\Electricity Company\bin\Debug\Electricity Company.exe.config
+D:\MP_ Works\My Dev Projects\Vb .net\electricity-company - Copy\Electricity Company\bin\Debug\Electricity Company.exe
+D:\MP_ Works\My Dev Projects\Vb .net\electricity-company - Copy\Electricity Company\bin\Debug\Electricity Company.pdb
+D:\MP_ Works\My Dev Projects\Vb .net\electricity-company - Copy\Electricity Company\bin\Debug\Electricity Company.xml
+D:\MP_ Works\My Dev Projects\Vb .net\electricity-company - Copy\Electricity Company\obj\Debug\Electricity Company.vbproj.AssemblyReference.cache
+D:\MP_ Works\My Dev Projects\Vb .net\electricity-company - Copy\Electricity Company\obj\Debug\Electricity Company.vbproj.SuggestedBindingRedirects.cache
+D:\MP_ Works\My Dev Projects\Vb .net\electricity-company - Copy\Electricity Company\obj\Debug\Electricity_Company.frmCustInfo.resources
+D:\MP_ Works\My Dev Projects\Vb .net\electricity-company - Copy\Electricity Company\obj\Debug\Electricity_Company.Resources.resources
+D:\MP_ Works\My Dev Projects\Vb .net\electricity-company - Copy\Electricity Company\obj\Debug\Electricity_Company.Payment.resources
+D:\MP_ Works\My Dev Projects\Vb .net\electricity-company - Copy\Electricity Company\obj\Debug\Electricity Company.vbproj.GenerateResource.cache
+D:\MP_ Works\My Dev Projects\Vb .net\electricity-company - Copy\Electricity Company\obj\Debug\Electricity Company.vbproj.CoreCompileInputs.cache
+D:\MP_ Works\My Dev Projects\Vb .net\electricity-company - Copy\Electricity Company\obj\Debug\Electricity Company.exe
+D:\MP_ Works\My Dev Projects\Vb .net\electricity-company - Copy\Electricity Company\obj\Debug\Electricity Company.xml
+D:\MP_ Works\My Dev Projects\Vb .net\electricity-company - Copy\Electricity Company\obj\Debug\Electricity Company.pdb
